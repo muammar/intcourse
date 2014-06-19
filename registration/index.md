@@ -56,7 +56,7 @@ using our [contact form](../contact).
 *  Fernando        Aguilar                                   (Autónoma, Spain)
 *  Manuel Lara                                               (Autónoma, Spain)
 *  Sergio  Pérez                                             (UAM-Sevilla, Spain)
-*  Ferran  Sancho                                            (Barcelona, Spain)
+*  Ferran  Sancho                                            (Barcelona, Spain)  **[Payment received]**
 *  Gerard Alonso   Benito                                    (Barcelona, Spain)
 *  Hector  Prats                                             (Barcelona, Spain)
 *  Antonio Ruiz Puigdollers                                  (Barcelona, Spain)
