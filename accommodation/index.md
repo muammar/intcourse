@@ -22,6 +22,17 @@ The *[Hôtel-Restaurant COMFORT HÔTEL](http://www.hotel-comfort-ramonville-st-a
 
 You can download the [Flyer with information about the residence](../files/flyer.png).
 
+### About the hotel
+
+##### Supply of household linen: €10 each change / each room 
+Includes: Sheet, duvet cover, pillowcases and pillows, large and small bath towel and bath mat.
+
+##### Cleaning service: €19 each service / each room
+Includes: Cleaning of the room and bathroom.
+
+##### Extra nights:
+People interested in stay for an extra night will have a cost equal to ~ €20. Please, inform as soon as possible if you desire an extra room and for which dates using our [contact form](../contact).
+
 ## Food
 
 During the intensive course, you will have access to the Restaurant
