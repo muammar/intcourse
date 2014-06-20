@@ -4,7 +4,7 @@ permalink: /
 title: 9th International Intensive Course TCCM 2014
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
-modified: 9-9-2013
+modified: 6-21-2013
 comments: true
 image:
   feature: toulouse.png
@@ -35,3 +35,8 @@ institutions in Europe.
 * Vijay Chilkuri
 * Lucy Cusinato
 * Juan Sanz
+
+## Sponsors
+
+![alt text](./images/sponsors.png "Sponsors")
+
