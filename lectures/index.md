@@ -14,36 +14,34 @@ image:
 
 Below you will find the list of teachers (still to be confirmed):
 
-* J. Sanchez-Marin
-* M. Boggio-Pasqua
-* M.-C. Heitz
-* F. Gatti
-* C. Meier
-* M.-L. Doublet
-* I. Barai
-* T. Fleig
-* A. M. Pendas
-* R. Havenith
-* J. Ugalde
-* K. Raghavachari
-* M. Rapacioli
-* M. Ramos
-* D. Bégué
-* A. Monari
-* D. Sanchez
-* O. Gervasi
-* A. Scemama
-* N. Renon
-* C. Crespos
-* F. Jolibois
-* L. Maron
-* M.-C Heitz
-* N. Renon
-* N. Suaud
-* L. Calmels
-* S. Diaz-Tendero
-* M. Benoît
-* A. Ceulemans
+* J. Sanchez-Marin (Universitat de València)
+* M. Boggio-Pasqua (Université Paul Sabatier)
+* M.-C. Heitz (Université Paul Sabatier)
+* F. Gatti (Université Montpellier 2)
+* C. Meier (Université Paul Sabatier)
+* M.-L. Doublet (Université Montpellier 2)
+* I. Barai (Université Pau et des Pays de l'Adour)
+* T. Fleig (Université Paul Sabatier)
+* A. M. Pendas (Universidad de Oviedo)
+* R. Havenith (University of Groningen)
+* J. Ugalde (Universidad del Pais Vasco)
+* K. Raghavachari (Indiana University)
+* M. Rapacioli (Université Paul Sabatier)
+* M. Ramos (Universidade do Porto)
+* D. Bégué (Université Pau et des Pays de l'Adour)
+* A. Monari (Université de Lorraine)
+* D. Sanchez (Université Paul Sabatier)
+* O. Gervasi (Università degli Studi di Perugia)
+* A. Scemama (Université Paul Sabatier)
+* N. Renon (Université Paul Sabatier)
+* C. Crespos (Université Bordeaux 1)
+* F. Jolibois (Université Paul Sabatier)
+* L. Maron (Université Paul Sabatier)
+* N. Suaud (Université Paul Sabatier)
+* L. Calmels (CEMES)
+* S. Diaz-Tendero (Universidad Autónoma de Madrid)
+* M. Benoît (CEMES)
+* A. Ceulemans (Katholieke Universiteit Leuven)
 
 # Topics
 
