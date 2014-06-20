@@ -81,7 +81,6 @@ using our [contact form](../contact).
 * Francesco Talotta                                     (Perugia, Italy) **[Payment received]**
 *  Yannick Engelmann                                    (Leuven, Belgium)
 *  Venkata Harsha  Balla                                (Leuven, Belgium)
-*  Jonathan        Furtado                              (Leuven, Belgium)
-
+*  Jonathan        Furtado                              (Leuven, Belgium) **[Payment received]**
 
 **Note:** Students marked with ^* don't have to pay fees.
