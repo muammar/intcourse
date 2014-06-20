@@ -4,7 +4,7 @@ permalink: /
 title: 9th International Intensive Course TCCM 2014
 tagline: Minimal Mistakes, a Jekyll Theme
 tags: [about, Jekyll, theme, responsive]
-modified: 6-21-2013
+modified: 6-21-2014
 comments: true
 image:
   feature: toulouse.png
