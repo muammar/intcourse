@@ -17,8 +17,8 @@ students coming from participant universities. The price includes registration,
 [accommodation](../accommodation) for the duration of the intensive course.  We
 need you to pay as soon as possible.
 
->The **deadline** has been extended. Please wait until next week to make your
-payment if you haven't done it yet. More information will be given soon.
+>The **deadline** has been extended. You can proceed to make your payment if
+you haven't done it yet.
 
 > The number of students that can register is limited to 35.
 
