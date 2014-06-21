@@ -16,6 +16,7 @@ Below you will find the list of teachers (still to be confirmed):
 
 * J. Sanchez-Marin (Universitat de València)
 * M. Boggio-Pasqua (Université Paul Sabatier)
+* N. Guihéry (Université Paul Sabatier)
 * M.-C. Heitz (Université Paul Sabatier)
 * F. Gatti (Université Montpellier 2)
 * C. Meier (Université Paul Sabatier)
