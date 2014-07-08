@@ -109,6 +109,8 @@ bus departing from the main
 
 ## Getting around in Toulouse
 
+### IMPORTANT: Bring a photography in order to get the transport card.
+
 ### Bus and metro
 
 [Tisseo](http://www.tisseo.fr/) operates a network of bus, tramway and metro

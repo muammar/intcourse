@@ -36,4 +36,4 @@ People interested in stay for an extra night will have a cost equal to ~ €20. 
 ## Food
 
 During the intensive course, you will have access to the Restaurant
-Universitaire. The meals have a cost of ~ €4.50.
+Universitaire, the lunch will be paid by the organization (breakfast and dinner should be paid by students).
