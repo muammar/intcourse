@@ -49,38 +49,41 @@ using our [contact form](../contact).
 
 ## List of registered students
 
-*  Andrés  Ordoñez                                            (Autónoma, Spain)
-*  Elena   Kusevska                                           (Autónoma, Spain)
-*  Sandra  Gómez                                              (Autónoma, Spain)
-*  Marcos  del Cueto                                         (Autónoma, Spain)
-*  Fernando        Aguilar                                   (Autónoma, Spain)
-*  Manuel Lara                                               (Autónoma, Spain)
-*  Sergio  Pérez                                             (UAM-Sevilla, Spain)
-*  Ferran  Sancho                                            (Barcelona, Spain)  **[Payment received]**
-*  Gerard Alonso   Benito                                    (Barcelona, Spain)
-*  Hector  Prats                                             (Barcelona, Spain)
-*  Antonio Ruiz Puigdollers                                  (Barcelona, Spain)
-*  Arturo  Sopena                                            (Barcelona, Spain)
-*  Roser   Morales                                           (Barcelona, Spain)
-*  Miquel  Blancafort Jorquera                               (Barcelona, Spain)
-*  Carlos  Álvarez Lamsfus                                   (Oviedo, Spain)
-*  Uxía    Rivero González                                   (Vigo, Spain)
-*  Germán  Molpeceres                                        (Valladolid, Spain)
-*  Eloisa  González Lavado                                   (Extremadura, Spain)
-*  Joan    Bellvis Milian                                    (Castellón, Spain)
-*  Tatiana         Lemishko                                  (Valencia, Spain)
-*  Fedaa   Attana                                            (Valencia, Spain)
-*  Meilani         Wibowo                                    (Valencia, Spain)
-*  Luis    Escalera Moreno                                   (Valencia, Spain)
-*  Raúl    Rodríguez Segundo                                 (Salamanca, Spain)
-*  Weibing Zhang                                             (Toulouse, France)^*
-*  Neus    Aguilera Porta                                    (Toulouse, France)^*
-*  Almas Hilman    Muhtadi                              (Groningen, Netherlands)
-*  Kie Zen Lim                                          (Groningen, Netherlands)
-*  Maria A.        Izquierdo                             (Perugia, Italy)
+*  Andrés  Ordoñez                                    (Autónoma, Spain)
+*  Elena   Kusevska                                     (Autónoma, Spain)
+*  Sandra  Gómez                                       (Autónoma, Spain)
+*  Marcos  del Cueto                                    (Autónoma, Spain)
+*  Fernando        Aguilar                              (Autónoma, Spain)
+*  Manuel Lara                                          (Autónoma, Spain)
+*  Sergio  Pérez                                       (UAM-Sevilla, Spain)
+*  Ferran  Sancho                                       (Barcelona, Spain)  **[Payment received]**
+*  Gerard Alonso   Benito                               (Barcelona, Spain)
+*  Hector  Prats                                        (Barcelona, Spain)
+*  Antonio Ruiz Puigdollers                             (Barcelona, Spain)
+*  Arturo  Sopena                                       (Barcelona, Spain)
+*  Roser   Morales                                      (Barcelona, Spain)
+*  Miquel  Blancafort Jorquera                          (Barcelona, Spain)
+*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)
+*  Uxía    Rivero González                            (Vigo, Spain) **[Payment received]**
+*  Germán  Molpeceres                                  (Valladolid, Spain)
+*  Eloisa  González Lavado                             (Extremadura, Spain)
+*  Joan    Bellvis Milian                               (Castellón, Spain)
+*  Tatiana         Lemishko                             (Valencia, Spain)
+*  Fedaa   Attana                                       (Valencia, Spain)
+*  Meilani         Wibowo                               (Valencia, Spain)
+*  Luis    Escalera Moreno                              (Valencia, Spain)
+*  Raúl    Rodríguez Segundo                          (Salamanca, Spain)
+*  Weibing Zhang                                        (Toulouse, France)^*
+*  Neus    Aguilera Porta                               (Toulouse, France)^*
+*  Almas Hilman    Muhtadi                              (Groningen, Netherlands) **[Payment received]**
+*  Kie Zen Lim                                          (Groningen, Netherlands) **[Payment received]**
+*  Maria A.        Izquierdo                            (Perugia, Italy)
 * Francesco Talotta                                     (Perugia, Italy) **[Payment received]**
 *  Yannick Engelmann                                    (Leuven, Belgium)
 *  Venkata Harsha  Balla                                (Leuven, Belgium)
 *  Jonathan        Furtado                              (Leuven, Belgium) **[Payment received]**
+* Tran Dieu Hang                                        (Leuven, Belgium) **[Payment received]**
+* Huynh Minh Hung                                       (Leuven, Belgium) **[Payment received]** 
+
 
 **Note:** Students marked with ^* don't have to pay fees.
