@@ -79,11 +79,11 @@ using our [contact form](../contact).
 *  Kie Zen Lim                                          (Groningen, Netherlands) **[Payment received]**
 *  Maria A.        Izquierdo                            (Perugia, Italy)
 * Francesco Talotta                                     (Perugia, Italy) **[Payment received]**
-*  Yannick Engelmann                                    (Leuven, Belgium)
+*  Yannick Engelmann                                    (Leuven, Belgium) **[Payment received]**
 *  Venkata Harsha  Balla                                (Leuven, Belgium)
 *  Jonathan        Furtado                              (Leuven, Belgium) **[Payment received]**
 * Tran Dieu Hang                                        (Leuven, Belgium) **[Payment received]**
-* Huynh Minh Hung                                       (Leuven, Belgium) **[Payment received]** 
+* Huynh Minh Hung                                       (Leuven, Belgium) **[Payment received]**
 
 
 **Note:** Students marked with ^* don't have to pay fees.
