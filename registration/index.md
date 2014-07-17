@@ -57,27 +57,27 @@ using our [contact form](../contact).
 *  Manuel Lara                                          (Autónoma, Spain)
 *  Sergio  Pérez                                       (UAM-Sevilla, Spain)
 *  Ferran  Sancho                                       (Barcelona, Spain)  **[Payment received]**
-*  Gerard Alonso   Benito                               (Barcelona, Spain)
-*  Hector  Prats                                        (Barcelona, Spain)
-*  Antonio Ruiz Puigdollers                             (Barcelona, Spain)
-*  Arturo  Sopena                                       (Barcelona, Spain)
-*  Roser   Morales                                      (Barcelona, Spain)
+*  Gerard Alonso   Benito                               (Barcelona, Spain) **[Payment received]**
+*  Hector  Prats                                        (Barcelona, Spain) **[Payment received]**
+*  Antonio Ruiz Puigdollers                             (Barcelona, Spain) **[Payment received]**
+*  Arturo  Sopena                                       (Barcelona, Spain) **[Payment received]**
+*  Roser   Morales                                      (Barcelona, Spain) **[Payment received]**
 *  Miquel  Blancafort Jorquera                          (Barcelona, Spain)
 *  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)
 *  Uxía    Rivero González                            (Vigo, Spain) **[Payment received]**
 *  Germán  Molpeceres                                  (Valladolid, Spain)
 *  Eloisa  González Lavado                             (Extremadura, Spain)
 *  Joan    Bellvis Milian                               (Castellón, Spain)
-*  Tatiana         Lemishko                             (Valencia, Spain)
-*  Fedaa   Attana                                       (Valencia, Spain)
-*  Meilani         Wibowo                               (Valencia, Spain)
-*  Luis    Escalera Moreno                              (Valencia, Spain)
+*  Tetiana         Lemishko                             (Valencia, Spain) **[Payment received]**
+*  Fedaa   Attana                                       (Valencia, Spain) **[Payment received]**
+*  Meilani         Wibowo                               (Valencia, Spain) **[Payment received]**
+*  Luis    Escalera Moreno                              (Valencia, Spain) **[Payment received]**
 *  Raúl    Rodríguez Segundo                          (Salamanca, Spain)
 *  Weibing Zhang                                        (Toulouse, France)^*
 *  Neus    Aguilera Porta                               (Toulouse, France)^*
 *  Almas Hilman    Muhtadi                              (Groningen, Netherlands) **[Payment received]**
 *  Kie Zen Lim                                          (Groningen, Netherlands) **[Payment received]**
-*  Maria A.        Izquierdo                            (Perugia, Italy)
+*  Maria A.        Izquierdo                            (Perugia, Italy) **[Payment received]**
 * Francesco Talotta                                     (Perugia, Italy) **[Payment received]**
 *  Yannick Engelmann                                    (Leuven, Belgium) **[Payment received]**
 *  Venkata Harsha  Balla                                (Leuven, Belgium)
