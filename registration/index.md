@@ -51,11 +51,11 @@ using our [contact form](../contact).
 
 *  Andrés  Ordoñez                                    (Autónoma, Spain)
 *  Elena   Kusevska                                     (Autónoma, Spain)
-*  Sandra  Gómez                                       (Autónoma, Spain)
-*  Marcos  del Cueto                                    (Autónoma, Spain)
-*  Fernando        Aguilar                              (Autónoma, Spain)
-*  Manuel Lara                                          (Autónoma, Spain)
-*  Sergio  Pérez                                       (UAM-Sevilla, Spain)
+*  Sandra  Gómez                                       (Autónoma, Spain) **[Payment received]**
+*  Marcos  del Cueto                                    (Autónoma, Spain) **[Payment received]**
+*  Fernando        Aguilar                              (Autónoma, Spain) **[Payment received]**
+*  Manuel Lara                                          (Autónoma, Spain) **[Payment received]**
+*  Sergio  Pérez                                       (UAM-Sevilla, Spain) **[Payment received]**
 *  Ferran  Sancho                                       (Barcelona, Spain)  **[Payment received]**
 *  Gerard Alonso   Benito                               (Barcelona, Spain) **[Payment received]**
 *  Hector  Prats                                        (Barcelona, Spain) **[Payment received]**
@@ -63,11 +63,11 @@ using our [contact form](../contact).
 *  Arturo  Sopena                                       (Barcelona, Spain) **[Payment received]**
 *  Roser   Morales                                      (Barcelona, Spain) **[Payment received]**
 *  Miquel  Blancafort Jorquera                          (Barcelona, Spain)
-*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)
+*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain) **[Payment received]**
 *  Uxía    Rivero González                            (Vigo, Spain) **[Payment received]**
-*  Germán  Molpeceres                                  (Valladolid, Spain)
+*  Germán  Molpeceres                                  (Valladolid, Spain) **[Payment received]**
 *  Eloisa  González Lavado                             (Extremadura, Spain)
-*  Joan    Bellvis Milian                               (Castellón, Spain)
+*  Joan    Bellvis Milian                               (Castellón, Spain) **[Payment received]**
 *  Tetiana         Lemishko                             (Valencia, Spain) **[Payment received]**
 *  Fedaa   Attana                                       (Valencia, Spain) **[Payment received]**
 *  Meilani         Wibowo                               (Valencia, Spain) **[Payment received]**

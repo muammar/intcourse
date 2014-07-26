@@ -10,4 +10,6 @@ image:
   creditlink:
 ---
 
-More information soon.
+You can download a preliminary version of the [course programme] (../files/program.pdf) 
+
+More information about the course subjects will be give soon.
