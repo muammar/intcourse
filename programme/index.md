@@ -19,4 +19,4 @@ In the images shown below, you will find the preliminary version of the **9th In
 
 >You can also [download this preliminary version of the course programme](../files/program.pdf)
 
-More information about the course subjects will be give soon.
+More information about the course subjects will be given soon.
