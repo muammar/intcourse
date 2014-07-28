@@ -62,17 +62,16 @@ using our [contact form](../contact).
 *  Antonio Ruiz Puigdollers                             (Barcelona, Spain) **[Payment received]**
 *  Arturo  Sopena                                       (Barcelona, Spain) **[Payment received]**
 *  Roser   Morales                                      (Barcelona, Spain) **[Payment received]**
-*  Miquel  Blancafort Jorquera                          (Barcelona, Spain)
+*  Miquel  Blancafort Jorquera                          (Barcelona, Spain) **[Payment received]**
 *  Carlos  Álvarez Lamsfus                            (Oviedo, Spain) **[Payment received]**
 *  Uxía    Rivero González                            (Vigo, Spain) **[Payment received]**
 *  Germán  Molpeceres                                  (Valladolid, Spain) **[Payment received]**
-*  Eloisa  González Lavado                             (Extremadura, Spain)
+*  Eloisa  González Lavado                             (Extremadura, Spain) **[Payment received]**
 *  Joan    Bellvis Milian                               (Castellón, Spain) **[Payment received]**
 *  Tetiana         Lemishko                             (Valencia, Spain) **[Payment received]**
 *  Fedaa   Attana                                       (Valencia, Spain) **[Payment received]**
 *  Meilani         Wibowo                               (Valencia, Spain) **[Payment received]**
 *  Luis    Escalera Moreno                              (Valencia, Spain) **[Payment received]**
-*  Raúl    Rodríguez Segundo                          (Salamanca, Spain)
 *  Weibing Zhang                                        (Toulouse, France)^*
 *  Neus    Aguilera Porta                               (Toulouse, France)^*
 *  Almas Hilman    Muhtadi                              (Groningen, Netherlands) **[Payment received]**
