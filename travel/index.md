@@ -140,7 +140,7 @@ park there, then head downtown by metro.
 ### By bicycle
 
 Rent a bike from any one of the 253
-[VeloToulouse](http://www.velo.toulouse.fr/) bike s tations for €1.20 day. If
+[Velo Toulouse](http://www.velo.toulouse.fr/) bike stations for €1.20 day. If
 you do not return the bike to a station within 30 minutes, you will be charged
 extra. You can use the bikes as many times as you like during the day after
 paying the €1.20.  The tourist office provides maps of cycle lanes and cycle
