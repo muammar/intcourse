@@ -15,7 +15,7 @@ image:
 The **9th edition** of the [Intensive Course of the European Master in
 Theoretical Chemistry and Computational Modelling
 (TCCM)](http://www.emtccm.org/tccm-em/) will be organized at the Université
-Paul Sabatier in Toulouse - France, and held from the **1st to 26th September**.
+Paul Sabatier (IRSAMC building) in Toulouse - France, and held from the **1st to 26th September**.
 
 
 This intensive course is part of the program of studies of the European Master
