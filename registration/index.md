@@ -51,38 +51,38 @@ using our [contact form](../contact).
 
 *  Andrés  Ordoñez                                    (Autónoma, Spain)
 *  Elena   Kusevska                                     (Autónoma, Spain)
-*  Sandra  Gómez                                       (Autónoma, Spain) **[Payment received]**
-*  Marcos  del Cueto                                    (Autónoma, Spain) **[Payment received]**
-*  Fernando        Aguilar                              (Autónoma, Spain) **[Payment received]**
-*  Manuel Lara                                          (Autónoma, Spain) **[Payment received]**
-*  Sergio  Pérez                                       (UAM-Sevilla, Spain) **[Payment received]**
-*  Ferran  Sancho                                       (Barcelona, Spain)  **[Payment received]**
-*  Gerard Alonso   Benito                               (Barcelona, Spain) **[Payment received]**
-*  Hector  Prats                                        (Barcelona, Spain) **[Payment received]**
-*  Antonio Ruiz Puigdollers                             (Barcelona, Spain) **[Payment received]**
-*  Arturo  Sopena                                       (Barcelona, Spain) **[Payment received]**
-*  Roser   Morales                                      (Barcelona, Spain) **[Payment received]**
-*  Miquel  Blancafort Jorquera                          (Barcelona, Spain) **[Payment received]**
-*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain) **[Payment received]**
-*  Uxía    Rivero González                            (Vigo, Spain) **[Payment received]**
-*  Germán  Molpeceres                                  (Valladolid, Spain) **[Payment received]**
-*  Eloisa  González Lavado                             (Extremadura, Spain) **[Payment received]**
-*  Joan    Bellvis Milian                               (Castellón, Spain) **[Payment received]**
-*  Tetiana         Lemishko                             (Valencia, Spain) **[Payment received]**
-*  Fedaa   Attana                                       (Valencia, Spain) **[Payment received]**
-*  Meilani         Wibowo                               (Valencia, Spain) **[Payment received]**
-*  Luis    Escalera Moreno                              (Valencia, Spain) **[Payment received]**
+*  Sandra  Gómez                                       (Autónoma, Spain)
+*  Marcos  del Cueto                                    (Autónoma, Spain)
+*  Fernando        Aguilar                              (Autónoma, Spain)
+*  Manuel Lara                                          (Autónoma, Spain)
+*  Sergio  Pérez                                       (UAM-Sevilla, Spain)
+*  Ferran  Sancho                                       (Barcelona, Spain) 
+*  Gerard Alonso   Benito                               (Barcelona, Spain) 
+*  Hector  Prats                                        (Barcelona, Spain) 
+*  Antonio Ruiz Puigdollers                             (Barcelona, Spain) 
+*  Arturo  Sopena                                       (Barcelona, Spain) 
+*  Roser   Morales                                      (Barcelona, Spain) 
+*  Miquel  Blancafort Jorquera                          (Barcelona, Spain) 
+*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)    
+*  Uxía    Rivero González                            (Vigo, Spain)
+*  Germán  Molpeceres                                  (Valladolid, Spain)
+*  Eloisa  González Lavado                             (Extremadura, Span)
+*  Joan    Bellvis Milian                               (Castellón, Spain 
+*  Tetiana         Lemishko                             (Valencia, Spain) 
+*  Fedaa   Attana                                       (Valencia, Spain) 
+*  Meilani         Wibowo                               (Valencia, Spain) 
+*  Luis    Escalera Moreno                              (Valencia, Spain) 
 *  Weibing Zhang                                        (Toulouse, France)^*
 *  Neus    Aguilera Porta                               (Toulouse, France)^*
-*  Almas Hilman    Muhtadi                              (Groningen, Netherlands) **[Payment received]**
-*  Kie Zen Lim                                          (Groningen, Netherlands) **[Payment received]**
-*  Maria A.        Izquierdo                            (Perugia, Italy) **[Payment received]**
-* Francesco Talotta                                     (Perugia, Italy) **[Payment received]**
-*  Yannick Engelmann                                    (Leuven, Belgium) **[Payment received]**
-*  Venkata Harsha  Balla                                (Leuven, Belgium)
-*  Jonathan        Furtado                              (Leuven, Belgium) **[Payment received]**
-* Tran Dieu Hang                                        (Leuven, Belgium) **[Payment received]**
-* Huynh Minh Hung                                       (Leuven, Belgium) **[Payment received]**
+*  Almas Hilman    Muhtadi                              (Groningen, Netherlands) 
+*  Kie Zen Lim                                          (Groningen, Netherlands) 
+*  Maria A.        Izquierdo                            (Perugia, Italy) 
+* Francesco Talotta                                     (Perugia, Italy) 
+*  Yannick Engelmann                                    (Leuven, Belgium) 
+*  Venkata Harsha  Balla                                (Leuven, Belgium) **[Missing payment]**
+*  Jonathan        Furtado                              (Leuven, Belgium) 
+* Tran Dieu Hang                                        (Leuven, Belgium) 
+* Huynh Minh Hung                                       (Leuven, Belgium) 
 
 
 **Note:** Students marked with ^* don't have to pay fees.
