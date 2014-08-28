@@ -17,8 +17,8 @@ students coming from participant universities. The price includes registration,
 [accommodation](../accommodation) for the duration of the intensive course.  We
 need you to pay as soon as possible.
 
->The **deadline** has been extended. You can proceed to make your payment if
-you haven't done it yet.
+>The **deadline** is over. Only students already registered can proceed to make
+payments if they haven't done it yet.
 
 > The number of students that can register is limited to 35.
 
@@ -56,33 +56,33 @@ using our [contact form](../contact).
 *  Fernando        Aguilar                              (Autónoma, Spain)
 *  Manuel Lara                                          (Autónoma, Spain)
 *  Sergio  Pérez                                       (UAM-Sevilla, Spain)
-*  Ferran  Sancho                                       (Barcelona, Spain) 
-*  Gerard Alonso   Benito                               (Barcelona, Spain) 
-*  Hector  Prats                                        (Barcelona, Spain) 
-*  Antonio Ruiz Puigdollers                             (Barcelona, Spain) 
-*  Arturo  Sopena                                       (Barcelona, Spain) 
-*  Roser   Morales                                      (Barcelona, Spain) 
-*  Miquel  Blancafort Jorquera                          (Barcelona, Spain) 
-*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)    
+*  Ferran  Sancho                                       (Barcelona, Spain)
+*  Gerard Alonso   Benito                               (Barcelona, Spain)
+*  Hector  Prats                                        (Barcelona, Spain)
+*  Antonio Ruiz Puigdollers                             (Barcelona, Spain)
+*  Arturo  Sopena                                       (Barcelona, Spain)
+*  Roser   Morales                                      (Barcelona, Spain)
+*  Miquel  Blancafort Jorquera                          (Barcelona, Spain)
+*  Carlos  Álvarez Lamsfus                            (Oviedo, Spain)
 *  Uxía    Rivero González                            (Vigo, Spain)
 *  Germán  Molpeceres                                  (Valladolid, Spain)
 *  Eloisa  González Lavado                             (Extremadura, Span)
-*  Joan    Bellvis Milian                               (Castellón, Spain 
-*  Tetiana         Lemishko                             (Valencia, Spain) 
-*  Fedaa   Attana                                       (Valencia, Spain) 
-*  Meilani         Wibowo                               (Valencia, Spain) 
-*  Luis    Escalera Moreno                              (Valencia, Spain) 
+*  Joan    Bellvis Milian                               (Castellón, Spain
+*  Tetiana         Lemishko                             (Valencia, Spain)
+*  Fedaa   Attana                                       (Valencia, Spain)
+*  Meilani         Wibowo                               (Valencia, Spain)
+*  Luis    Escalera Moreno                              (Valencia, Spain)
 *  Weibing Zhang                                        (Toulouse, France)^*
 *  Neus    Aguilera Porta                               (Toulouse, France)^*
-*  Almas Hilman    Muhtadi                              (Groningen, Netherlands) 
-*  Kie Zen Lim                                          (Groningen, Netherlands) 
-*  Maria A.        Izquierdo                            (Perugia, Italy) 
-* Francesco Talotta                                     (Perugia, Italy) 
-*  Yannick Engelmann                                    (Leuven, Belgium) 
+*  Almas Hilman    Muhtadi                              (Groningen, Netherlands)
+*  Kie Zen Lim                                          (Groningen, Netherlands)
+*  Maria A.        Izquierdo                            (Perugia, Italy)
+* Francesco Talotta                                     (Perugia, Italy)
+*  Yannick Engelmann                                    (Leuven, Belgium)
 *  Venkata Harsha  Balla                                (Leuven, Belgium) **[Missing payment]**
-*  Jonathan        Furtado                              (Leuven, Belgium) 
-* Tran Dieu Hang                                        (Leuven, Belgium) 
-* Huynh Minh Hung                                       (Leuven, Belgium) 
+*  Jonathan        Furtado                              (Leuven, Belgium)
+* Tran Dieu Hang                                        (Leuven, Belgium)
+* Huynh Minh Hung                                       (Leuven, Belgium)
 
 
 **Note:** Students marked with ^* don't have to pay fees.

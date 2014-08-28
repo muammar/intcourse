@@ -9,9 +9,10 @@ image:
   credit: Oriana Brea
 ---
 
-The courses will take place in the IRSAMC [Institut de Recherche sur les Systèmes Atomiques et Moléculaires
-Complexes] building, 3R1 (D4), room 20, ground floor. 
-The IRSAMC (http://www.irsamc.ups-tlse.fr/?lang=fr) gathers in the same
+The courses will take place in the IRSAMC (Institut de Recherche sur les Systèmes Atomiques et Moléculaires
+Complexes) building  (**D4** in the [map of the UPS campus](http://www.univ-tlse3.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?CODE_FICHIER=1244539309739&ID_FICHE=74499)), **room 20**, **ground floor**.
+
+The [IRSAMC](http://www.irsamc.ups-tlse.fr/?lang=fr) gathers in the same
 structure four different laboratories of fundamental Physics and Chemistry, mix
 unities of research of the Université Paul Sabatier, the CNRS, and INSA. The
 IRSAMC is part of the Labex [NEXT  (Nano, mesures EXtrêmes
