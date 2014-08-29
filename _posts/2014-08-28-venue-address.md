@@ -15,6 +15,6 @@ Complexes) building  (**D4** in the [map of the UPS
 campus](http://www.univ-tlse3.fr/servlet/com.univ.collaboratif.utils.LectureFichiergw?CODE_FICHIER=1244539309739&ID_FICHE=74499)),
 **room 20**, **ground floor**.
 
-There more information available that you can check in the link below:
+There is more information available that you can check in the link below:
 
 > [{{ site.url }}/programme/]({{ site.url }}/venue/)

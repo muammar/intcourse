@@ -26,10 +26,15 @@ institutions in Europe.
 
 ## Organising committee
 
+### Teachers of the Université Paul Sabatier
 * Stefano Evangelisti
 * Thierry Leininger
 * Romuald Poteau
+
+### European project engineer
 * Aude Garsès
+
+### PhD students
 * Muammar El Khatib
 * Oriana Brea
 * Vijay Chilkuri
@@ -39,4 +44,3 @@ institutions in Europe.
 ## Sponsors
 
 ![alt text](./images/sponsors.png "Sponsors")
-
