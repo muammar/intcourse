@@ -83,6 +83,9 @@ using our [contact form](../contact).
 *  Jonathan        Furtado                              (Leuven, Belgium)
 * Tran Dieu Hang                                        (Leuven, Belgium)
 * Huynh Minh Hung                                       (Leuven, Belgium)
+* Elisa Louyriac                                        (Montpellier, France)
+* Saphir Venet                                          (Pau, France)
+* William Lafargue Dit Hauret                           (Pau, France)
 
 
 **Note:** Students marked with ^* don't have to pay fees.

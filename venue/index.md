@@ -18,7 +18,9 @@ unities of research of the Université Paul Sabatier, the CNRS, and INSA. The
 IRSAMC is part of the Labex [NEXT  (Nano, mesures EXtrêmes
 & Théorie)](http://www.next-toulouse.fr/) and host one of the CECAM nodes.
 
-> On September 1st we will meet at 8:00 am just outside  the metro station **Paul Sabatier**.
+
+### Updated on August 31st
+> On September 1st we will meet at 9:00 am just outside  the metro station **Paul Sabatier**.
 
 
 ## Location
