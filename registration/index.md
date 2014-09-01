@@ -86,6 +86,7 @@ using our [contact form](../contact).
 * Elisa Louyriac                                        (Montpellier, France)
 * Saphir Venet                                          (Pau, France)
 * William Lafargue Dit Hauret                           (Pau, France)
+* Yann Garniron                                         (Toulouse, France)
 
 
 **Note:** Students marked with ^* don't have to pay fees.
