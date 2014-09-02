@@ -20,7 +20,7 @@ need you to pay as soon as possible.
 >The **deadline** is over. Only students already registered can proceed to make
 payments if they haven't done it yet.
 
-> The number of students that can register is limited to 35.
+> The number of students that can register is limited to 40.
 
 ## Payment details
 
@@ -87,6 +87,7 @@ using our [contact form](../contact).
 * Saphir Venet                                          (Pau, France)
 * William Lafargue Dit Hauret                           (Pau, France)
 * Yann Garniron                                         (Toulouse, France)
+* Wolfram Feuerstein                                    (Karlsruhe - KIT, Germany)
 
 
 **Note:** Students marked with ^* don't have to pay fees.
