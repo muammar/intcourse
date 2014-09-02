@@ -9,7 +9,7 @@ image:
   credit:
   creditlink:
 ---
-In the images shown below, you will find the preliminary version of the **9th International Intensive Course program**.
+In the images shown below, you will find the final version of the **9th International Intensive Course program**.
 
 ## 1st and 2nd week
 ![First and Second week]({{ site.url }}/files/program1-2w.png )
@@ -21,6 +21,4 @@ In the images shown below, you will find the preliminary version of the **9th In
 ![First and Second week]({{ site.url }}/files/program5w.png )
 ![Third and Fourth week]({{ site.url }}/files/program6w.png )
 
->You can also [download this preliminary version of the course programme](../files/program.pdf)
-
-More information about the course subjects will be given soon.
+>You can also [download the version of the course programme](../files/program.pdf)
