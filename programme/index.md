@@ -11,6 +11,8 @@ image:
 ---
 In the images shown below, you will find the final version of the **9th International Intensive Course program**.
 
+> Updated on 2nd September
+
 ## 1st and 2nd week
 ![First and Second week]({{ site.url }}/files/program1-2w.png )
 
