@@ -11,7 +11,7 @@ image:
 ---
 In the images shown below, you will find the final version of the **9th International Intensive Course program**.
 
-> Last modified: Wed Sep  3 14:34:16 CEST 2014.
+> Last modified: Thu Sep  4 17:09:42 CEST 2014
 
 ## 1st and 2nd week
 ![First and Second week]({{ site.url }}/files/program1-2w.png )
@@ -21,8 +21,8 @@ In the images shown below, you will find the final version of the **9th Internat
 #### Courses of the 1st week
 
 * Wednesday: Sergio Diaz-Tendero's course (**September 3rd**)
-* Thursday: Chris Meier + Didier Bégué courses (**September 4th**)
-* Friday: Marie-Catherine Heitz's course (**September 5th**)
+* Thursday: Chris Meier courses (**September 4th**)
+* Friday: Didier Bégué's course (14h00), and Marie-Catherine Heitz's course (**September 5th**)
 * Monday: Laurent Maron + Franck Jolibois courses (**September 8th**)
 
 
