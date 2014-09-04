@@ -52,10 +52,10 @@ links:
     url: /news/
   - title: download
     url: /download/
-  - title: Contact
-    url: /contact/
   - title: Tutorials
     url: /tutorial/
+  - title: Contact
+    url: /contact/
 # - title: Theme Setup
 #   url: /theme-setup/
 # - title: Made Mistakes
