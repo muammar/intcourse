@@ -28,7 +28,6 @@ IRSAMC is part of the Labex [NEXT  (Nano, mesures EXtrêmes
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=210868628437757651036.0004fc4c67db81ebe0442&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=43.560296,1.467844&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=210868628437757651036.0004fc4c67db81ebe0442&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=43.560296,1.467844&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Fédération IRSAMC</a> in a larger map</small>
 
 ## Weather
-i
 <link rel="stylesheet" type="text/css" media="screen" href="http://img.weather.weatherbug.com/Style/stickers/v2/Stickers_300x250.css" />
 <div class="wXbody">
 <iframe id="WeatherBugSticker_300x250_v2" src="http://weather.weatherbug.com/desktop-weather/web-widgets/getSticker.html?CityCode=63070&ZCode=z5545&Size=300x250&StationID=LFBO&units=1&Version=2&lang_id=en-us" width="284" height="172" frameborder="0" scrolling="no" allowtransparency="yes"></iframe>
@@ -42,7 +41,5 @@ i
 <a href="http://weather.weatherbug.com/default.html" target="_blank" onclick="Javascript:this.href='http://weather.weatherbug.com/France/Toulouse-weather.html?zcode=z5545&units=1'"><img src="http://img.weather.weatherbug.com/images/stickers/v2/English_ViewLocal_102x16.png" border="0" id="location" alt="WeatherBug" /></a>
 </div>
 
-
 <div class="footertext">Your weather just got better.</div>
-
 </div>
