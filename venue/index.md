@@ -27,3 +27,6 @@ IRSAMC is part of the Labex [NEXT  (Nano, mesures EXtrêmes
 
 <iframe width="425" height="350" frameborder="0" scrolling="no" marginheight="0" marginwidth="0" src="https://www.google.com/maps/ms?msa=0&amp;msid=210868628437757651036.0004fc4c67db81ebe0442&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=43.560296,1.467844&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="https://www.google.com/maps/ms?msa=0&amp;msid=210868628437757651036.0004fc4c67db81ebe0442&amp;hl=en&amp;ie=UTF8&amp;t=m&amp;ll=43.560296,1.467844&amp;spn=0,0&amp;source=embed" style="color:#0000FF;text-align:left">Fédération IRSAMC</a> in a larger map</small>
 
+## Weather
+
+<script type="text/javascript" src="http://voap.weather.com/weather/oap/FRXX0099?template=GENXH&par=3000000007&unit=1&key=twciweatherwidget"></script>
