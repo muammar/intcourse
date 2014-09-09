@@ -28,8 +28,8 @@ In the images shown below, you will find the final version of the **9th Internat
 #### Courses of the 2nd week
 
 * Tuesday: Boggio (**September 9th**)
-* Wednesday: Monari + Souza/Cerqueira courses (**September 10th**)
-* Thursday: Guihéry's course (**September 11th**)
+* Wednesday: Monari + Souza/Cerqueira + Guihéry's courses (**September 10th**)
+* Thursday: --- (**September 11th**)
 * Friday: Sanchez + Saue's course (**September 12th**)
 * Monday: Benoit/Rapaccioli's + Vallverdu/Baraille courses (**September 15th**)
 
