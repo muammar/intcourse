@@ -20,11 +20,17 @@ In the images shown below, you will find the final version of the **9th Internat
 
 #### Courses of the 1st week
 
-* Wednesday: Sergio Diaz-Tendero's course (**September 3rd**)
-* Thursday: Chris Meier courses (**September 4th**)
-* Friday: Didier Bégué's course (14h00), and Marie-Catherine Heitz's course (**September 5th**)
-* Monday: Laurent Maron + Franck Jolibois courses (**September 8th**)
+* Wednesday: Diaz-Tendero's course (**September 3rd**)
+* Thursday: Meier courses (**September 4th**)
+* Friday: Bégué's course (14h00), and Heitz's course (**September 5th**)
+* Monday: Maron + Jolibois courses (**September 8th**)
 
+#### Courses of the 2nd week
+
+* Wednesday: Monari + Souza/Cerqueira courses (**September 10th**)
+* Thursday: Boggio + Guihéry's course (**September 11th**)
+* Friday: Sanchez + Saue's course (**September 12th**)
+* Monday: Benoit/Rapaccioli's + Vallverdu/Baraille courses (**September 15th**)
 
  The tests will take place at **18h40**.
 
