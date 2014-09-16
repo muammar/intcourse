@@ -11,7 +11,7 @@ image:
 ---
 In the images shown below, you will find the final version of the **9th International Intensive Course program**.
 
-> Last modified: Tue Sep  9 20:46:47 CEST 2014
+> Last modified: Tue Sep 16 12:05:39 CEST 2014
 
 ### Tests
 
@@ -37,7 +37,6 @@ In the images shown below, you will find the final version of the **9th Internat
 * Monday: Ugalde + Fabien (**September 22th**)
 
  The tests will take place at **18h40**.
-
 
 ## 1st and 2nd week
 ![First and Second week]({{ site.url }}/files/program1-2w.png )
