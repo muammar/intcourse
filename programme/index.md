@@ -34,7 +34,7 @@ In the images shown below, you will find the final version of the **9th Internat
 
 * Wednesday: Remco + Arnout (**September 17th**)
 * Thursday: Sanchez (**September 18th**)
-* Monday: Ugalde + Fabien (**September 22th**)
+* Monday: Ugalde + Fabien (**September 22nd**)
 
  The tests will take place at **18h40**.
 
