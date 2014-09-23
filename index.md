@@ -37,9 +37,10 @@ institutions in Europe.
 ### PhD students
 * Muammar El Khatib
 * Oriana Brea
-* Vijay Chilkuri
-* Lucy Cusinato
 * Juan Sanz
+* Vijay Chilkuri
+* Christoph Iftner
+* Lucy Cusinato
 
 ## Sponsors
 
