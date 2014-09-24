@@ -39,8 +39,8 @@ In the images shown below, you will find the final version of the **9th Internat
 #### Courses of the 4th week
 
 * Wednesday: Osvaldo Gervasi (**September 24th**)
-* Thursday: N. Saud/L. Calmels + K. Raghabachari (**September 25th**)
-* Friday: A. Pendas + Scemana/Renon (**September 26nd**)
+* Thursday: N. Saud/L. Calmels + K. Raghavachari (**September 25th**)
+* Friday: A. Pendas + Scemana/Renon (**September 26th**)
 
  The tests will take place at **18h40**.
 
