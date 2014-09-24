@@ -36,6 +36,12 @@ In the images shown below, you will find the final version of the **9th Internat
 * Thursday: Sanchez (**September 18th**)
 * Monday: Ugalde + Fabien (**September 22nd**)
 
+#### Courses of the 4th week
+
+* Wednesday: Osvaldo Gervasi (**September 24th**)
+* Thursday: N. Saud/L. Calmels + K. Raghabachari (**September 25th**)
+* Friday: A. Pendas + Scemana/Renon (**September 26nd**)
+
  The tests will take place at **18h40**.
 
 ## 1st and 2nd week
