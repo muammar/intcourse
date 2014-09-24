@@ -79,7 +79,6 @@ using our [contact form](../contact).
 *  Maria A.        Izquierdo                            (Perugia, Italy)
 * Francesco Talotta                                     (Perugia, Italy)
 *  Yannick Engelmann                                    (Leuven, Belgium)
-*  Venkata Harsha  Balla                                (Leuven, Belgium) **[Missing payment]**
 *  Jonathan        Furtado                              (Leuven, Belgium)
 * Tran Dieu Hang                                        (Leuven, Belgium)
 * Huynh Minh Hung                                       (Leuven, Belgium)
