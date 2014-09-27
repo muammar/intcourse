@@ -22,8 +22,6 @@ This intensive course is part of the program of studies of the European Master
 TCCM, and primarily organized for the students from the 25 participating
 institutions in Europe.
 
-* <a markdown="0" href="{{ site.url }}/registration" class="btn">Click here</a> to register.
-
 ## Organising committee
 
 ### Teachers of the Université Paul Sabatier
